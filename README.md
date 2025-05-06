@@ -1,6 +1,6 @@
 # somali_customs
 
-Repository for example docker image for article:  
+Repository for example docker image for article:  [Таможня По-Сомалийски. Вскрываем Контейнеры Docker](https://www.0x29a.in/posts/somali_customs/)   
 
 ## Get image
 You can get it from ghcr or build manualy.
